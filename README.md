@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosab Saad</h1>
-<h3 align="center">Junior automotive software engineer</h3>
+<h3 align="center">Junior embedded software engineer</h3>
 
 - 🌱 I’m currently learning **Automotive protocols(CAN&LIN) and RTOS**
 
