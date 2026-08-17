@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosab Saad</h1>
-<h3 align="center">Junior embedded system engineer</h3>
+<h3 align="center"> AI Automotive/embedded system engineer</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/mosab-saad-421589233/**
 
